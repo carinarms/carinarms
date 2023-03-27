@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### 🔭 I’m currently on the hunt for my next data job, something I've been deepening my knowledge in during the last 4 years.
-#### ✨ I’ve just finised a 9 week Data Science bootcamp at Le Wagon Berlin.
+#### ✨ I’ve also just finised a 9 week Data Science bootcamp at Le Wagon Berlin.
 
 
 ### Connect with me: 
