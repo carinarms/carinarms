@@ -1,11 +1,12 @@
 ### Hi there 👋
 #### 🔭 I’m currently on the hunt for my next data job, something I've been deepening my knowledge in during the last 4 years.
-#### ✨ I’ve also just finised a 9 week Data Science bootcamp at Le Wagon Berlin.
+#### ✨ I’ve also just finised a Data Science bootcamp at Le Wagon Berlin.
+#### 🌱 I’m currently learning more about AI on coursera.
 
+.
 
-### Connect with me: 
+### Checkout my HackerRank page: 
 <p align="left">
-<a href="https://kaggle.com/carinarms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="carinarms" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/carrie_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carrie_x" height="30" width="40" /></a>
 </p>
 
