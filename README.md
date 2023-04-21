@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 🔭 I’m currently on the hunt for my next data job, something I've been deepening my knowledge in during the last 4 years.
+#### 🔭 I’m on the hunt for my next data job, something I've been deepening my knowledge in during the last 4 years.
 #### ✨ I’ve also just finised a Data Science bootcamp at Le Wagon Berlin.
 #### 🌱 I’m currently learning more about AI on coursera.
 
